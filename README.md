@@ -31,7 +31,7 @@
 ---
 
 
- 📬 ممكن نتكلم من هنا
+ 📬ممكن نتكلم من هن
 
 <p align="center">
   <a href="https://t.me/Arab_coding">
