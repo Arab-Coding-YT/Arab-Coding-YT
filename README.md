@@ -36,7 +36,7 @@
 - 💬 **Telegram**: [Telegram](https://t.me/Arab_Coding)
 - 💻 **GitHub**: [Github](https://github.com/Zeyad-tech-dev)
 - 👤 **Facebook**: [Facebook](https://www.facebook.com/zeyad.adel.omar)
-- <img src="https://api.iconify.design/bx/bxl-gmail.svg" width="20" /> Email: [za8398866@gmail.com@gmail.com](mailto:za8398866@gmail.com@gmail.com)
+- <img src="https://api.iconify.design/bx/bxl-gmail.svg" width="20" /> Email: [ابعت ايميل ❤](mailto:za8398866@gmail.com@gmail.com)
 
 ---
 
