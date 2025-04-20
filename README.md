@@ -35,23 +35,22 @@
 ### 📬 تواصل معايا
 
 <p align="center">
-  <a href="https://t.me/Arab-coding" target="_blank">
+  <a href="https://t.me/ArabCodingYT" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="40" style="margin: 10px"/>
   </a>
-  <a href="https://www.youtube.com/@Arab-Coding" target="_blank">
+  <a href="https://youtube.com/@Arab-Coding-YT" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="40" style="margin: 10px"/>
   </a>
-  <a href="https://www.facebook.com/zeyad.adel.omar?locale=ar_AR" target="_blank">
+  <a href="https://facebook.com/ArabCodingYT" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" style="margin: 10px"/>
   </a>
   <a href="https://github.com/Arab-Coding-YT" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" style="margin: 10px"/>
   </a>
-  <a href="mailto:za8398866@gmail.com" target="_blank">
+  <a href="mailto:arab.coding.yt@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" style="margin: 10px"/>
   </a>
 </p>
-
 
 
 ---
