@@ -18,28 +18,13 @@
  💻 اللغات اللي بشتغل بيها
 
 <p align="center">
-
-  <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-
-  <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-
-  <!-- Tailwind -->
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-
-  <!-- Bootstrap -->
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-
-  <!-- PHP -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-
-  <!-- MySQL -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="Tailwind CSS" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="50" height="50" />
 </p>
 
 
@@ -51,6 +36,7 @@
 - 💬 **Telegram**: [Telegram](https://t.me/Arab_Coding)
 - 💻 **GitHub**: [Github](https://github.com/Zeyad-tech-dev)
 - 👤 **Facebook**: [Facebook](https://www.facebook.com/zeyad.adel.omar)
+- <img src="https://api.iconify.design/bx/bxl-gmail.svg" width="20" /> Email: [za8398866@gmail.com@gmail.com](mailto:za8398866@gmail.com@gmail.com)
 
 ---
 
