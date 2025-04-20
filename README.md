@@ -32,11 +32,14 @@
 
 🔗ممكن نتكلم من هنا
 
-- 📺 **YouTube**: [قناتي على اليوتيوب](https://www.youtube.com/channel/UCGb-Ae09Lxc4lxu2ZTN8J0w)
-- 💬 **Telegram**: [Telegram](https://t.me/Arab_Coding)
-- 💻 **GitHub**: [Github](https://github.com/Zeyad-tech-dev)
-- 👤 **Facebook**: [Facebook](https://www.facebook.com/zeyad.adel.omar)
-- <img src="https://api.iconify.design/bx/bxl-gmail.svg" width="20" /> Email: [ ❤كلمني في  ايميل ](mailto:za8398866@gmail.com@gmail.com)
+### 📬 تواصل معايا
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Arab-Coding)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@YourChannel](https://www.youtube.com/@Arab-Coding))
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/YourUsername](https://www.facebook.com/zeyad.adel.omar?locale=ar_AR))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YourUsername](https://github.com/Arab-Coding-YT))
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](za8398866@gmail.com@gmail.com)
+
 
 ---
 
