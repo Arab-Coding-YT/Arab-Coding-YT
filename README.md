@@ -30,8 +30,9 @@
 
 ---
 
-
- 📬ممكن نتكلم من هن
+<p style="font-family: 'Cascadia Code', monospace; font-weight: 900; font-style: italic;">
+  ممكن نتكلم من هنا
+</p>
 
 <p align="center">
   <a href="https://t.me/Arab_coding">
