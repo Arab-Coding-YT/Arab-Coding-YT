@@ -18,7 +18,8 @@
  💻 اللغات اللي بشتغل بيها
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="50" height="50" />
+  <a href="https://t.me/Arab_coding"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="50" height="50" /><a/>
+  
   <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="Tailwind CSS" width="50" height="50" />
